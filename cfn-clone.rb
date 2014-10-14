@@ -11,6 +11,7 @@ class CfnClone < Formula
   depends_on :arch => :intel
 
   def install
+    system "mv cfn-clone-*-darwin-amd64 cfn-clone"
     bin.install Dir['*']
   end
 
