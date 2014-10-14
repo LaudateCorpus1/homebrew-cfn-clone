@@ -16,6 +16,9 @@ brew install https://raw.github.com/intuit/homebrew-cfn-clone/master/cfn-clone.r
 
 `brew help`, `man brew`, or the Homebrew [wiki][].
 
+## License
+See LICENSE for details
+
 [cfn-clone]: https://github.com/intuit/cfn-clone
 [homebrew]: http://brew.sh/
 [wiki]: http://wiki.github.com/Homebrew/homebrew
